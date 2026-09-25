@@ -6,6 +6,7 @@ A collection of miscellaneous Hermes agent skills for various use cases.
 
 - **project-roadmapping** - Use when following a structured approach to complex software development projects.
 - **github-ssh-auth** - Use SSH keys for GitHub when PAT authentication fails.
+- **agent-gpg-keyring** - Use and maintain GnuPG keyring for encryption operations.
 
 ## Contributing
 
